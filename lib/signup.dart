@@ -19,8 +19,7 @@ class _SignUpState extends State<SignUp> {
   final _formKey = GlobalKey<FormState>();
 
   registration() {
-    if (password != null &&
-        namecontroller.text != "" &&
+    if (namecontroller.text != "" &&
         mailcontroller.text != "" &&
         citycontroller.text != "") {
       ScaffoldMessenger.of(context).showSnackBar(
