@@ -72,6 +72,14 @@ assets:
      - assets/maldives.jpg
      - assets/dubai.jpg
 
+     - assets/animations/rain.json
+     - assets/animations/cloudy.json
+     - assets/animations/sunny.json
+     - assets/animations/snow.json
+     - assets/animations/default.json
+     - assets/animations/search.json
+     - assets/log111.png
+
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
